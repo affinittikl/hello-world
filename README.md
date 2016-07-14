@@ -1,2 +1,2 @@
 # hello-world
-just another repo
+just checkin out this github thingy
